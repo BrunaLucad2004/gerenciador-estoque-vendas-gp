@@ -11,13 +11,9 @@ O projeto tem como finalidade aplicar conceitos de **Gerência de Projetos** no 
 - `/prompts` → Registros das interações com LLMs utilizadas para auxiliar na elaboração dos artefatos.
 - `README.md` → Documento inicial com informações do projeto, equipe e organização do repositório.
 
-
 ## 📝 Artefatos Entregues
-- [Termo de Abertura](artefatos/.pdf)
-- [Product Backlog](artefatos/product_backlog.xlsx)
-
-
-
+- [5W2H – Gerenciador de Vendas e Estoque](artefatos/5W2H%20–%20Gerenciador%20de%20Vendas%20e%20Estoque.pdf)  
+- [Declaração de Início de Projeto](artefatos/Declaração%20de%20Início%20de%20Projeto.pdf)  
 
 ## 👥 Equipe
 - Nome Bruna Lucas 

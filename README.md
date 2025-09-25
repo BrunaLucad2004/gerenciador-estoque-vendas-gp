@@ -11,10 +11,13 @@ O projeto tem como finalidade aplicar conceitos de **Gerência de Projetos** no 
 - `/prompts` → Registros das interações com LLMs utilizadas para auxiliar na elaboração dos artefatos.
 - `README.md` → Documento inicial com informações do projeto, equipe e organização do repositório.
 
+
 ## 📝 Artefatos Entregues
-- [x] Termo de Abertura do Projeto  
-- [ ] Product Backlog  
-- [ ] Plano de Gerenciamento de Riscos (em andamento)
+- [Termo de Abertura](artefatos/.pdf)
+- [Product Backlog](artefatos/product_backlog.xlsx)
+
+
+
 
 ## 👥 Equipe
 - Nome Bruna Lucas 

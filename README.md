@@ -14,6 +14,7 @@ O projeto tem como finalidade aplicar conceitos de **Gerência de Projetos** no 
 ## 📝 Artefatos Entregues
 - [5W2H – Gerenciador de Vendas e Estoque](artefatos/5W2H%20–%20Gerenciador%20de%20Vendas%20e%20Estoque.pdf)  
 - [Declaração de Início de Projeto](artefatos/Declaração%20de%20Início%20de%20Projeto.pdf)  
+- [Product Backlog](artefatos/Product%20Backlog.pdf) 
 
 ## 👥 Equipe
 - Nome Bruna Lucas 
